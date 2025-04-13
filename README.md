@@ -17,9 +17,3 @@ This project implements custom versions of fundamental data structures in Java, 
 
 - Java 8 or higher
 - No dependencies (pure Java)
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/data-structures-implementation.git
